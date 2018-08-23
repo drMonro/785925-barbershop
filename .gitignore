@@ -9,3 +9,9 @@
 node_modules/
 npm-debug.*
 Thumbs.db
+lvl1_html_device.iml
+sass/
+gulpfile.js
+package.json
+package-lock.json
+node_modules/
