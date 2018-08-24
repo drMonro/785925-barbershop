@@ -9,7 +9,7 @@
 node_modules/
 npm-debug.*
 Thumbs.db
-lvl1_html_device.iml
+lvl1_html_barbershop.iml
 sass/
 gulpfile.js
 package.json
