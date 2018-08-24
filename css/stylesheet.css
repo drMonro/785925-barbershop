@@ -254,12 +254,13 @@ a {
   width: 230px;
   margin: 0;
   margin-right: 80px;
-
+}
+.footer-contacts a {
   color: #ffffff;
   text-decoration: underline;
 }
-.footer-contacts:hover,
-.footer-contacts:focus {
+.footer-contacts a:hover,
+.footer-contacts a:focus {
   text-decoration: none;
 }
 
