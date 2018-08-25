@@ -11,6 +11,7 @@ npm-debug.*
 Thumbs.db
 lvl1_html_barbershop.iml
 sass/
+.idea/
 gulpfile.js
 package.json
 package-lock.json
